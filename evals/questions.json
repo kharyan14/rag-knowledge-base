@@ -1,0 +1,4 @@
+[
+  {"question":"How long do customers have to request a refund?","expected_answer":"30 calendar days","expected_sources":["product_guide.md"]},
+  {"question":"When is the support desk open?","expected_answer":"Monday through Friday from 09:00 to 17:00 IST","expected_sources":["product_guide.md"]}
+]
